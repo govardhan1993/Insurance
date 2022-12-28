@@ -25,11 +25,6 @@ public class userServiceImpl implements UserService {
 	}
 
 
-	@Override
-	public List<User> AllUserList() {
-		// TODO Auto-generated method stub
-		return null;
-	}
 	
 	
 
