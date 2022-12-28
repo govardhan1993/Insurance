@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.ifli.insurance.model.User;
 import com.ifli.insurance.service.UserService;
-
+// @Author name - Govardhan jadhav
 @RestController
 @RequestMapping("/user")
 public class ServiceController {
